@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnshumanPatek
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me AnshumanPatek369@gmail.com
 
