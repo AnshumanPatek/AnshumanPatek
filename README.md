@@ -17,12 +17,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anshuman-patek-4999021a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-nagpal18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tushar_nagpal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anshuman-patek-4999021a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshumanPatek" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AnshumanPatek" height="30" width="40" /></a>
 <!--   https://leetcode.com/Anshuman Patek/ -->
-<a href="https://leetcode.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tushar-nagpal18" height="30" width="40" /></a>
+<a href="https://leetcode.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnshumanPatek" height="30" width="40" /></a>
 
-  <a href="https://www.instagram.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tushar_nagpal" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AnshumanPatek" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnshumanPatek&show_icons=true&locale=en&layout=compact" alt="AnshumanPatek" /></p>
