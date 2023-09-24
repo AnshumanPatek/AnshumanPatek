@@ -34,7 +34,7 @@
 ---
 <table>
  <tr>
-  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=AnshumanPatek&show_icons=true&include_all_commits=true&theme=dark" /> </td>
+  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumanpatek&show_icons=true&include_all_commits=true&theme=dark" /> </td>
   <td><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=AnshumanPatek&theme=dark" /> </td>
  </tr>
 </table> 
