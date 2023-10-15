@@ -40,5 +40,5 @@
   <td><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=AnshumanPatek&theme=dark" /> </td>
  </tr>
 </table> 
-<div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshumanPatek&theme=react-dark" alt="Anshuman Patek" /></div>
-<br/>
+<!-- <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshumanPatek&theme=react-dark" alt="Anshuman Patek" /></div>
+<br/> -->
