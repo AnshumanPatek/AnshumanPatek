@@ -43,3 +43,28 @@
 </table> 
 <!-- <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshumanPatek&theme=react-dark" alt="Anshuman Patek" /></div>
 <br/> -->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Anshuman_Patek = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "C", "C"++, "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "geo politics"],
+    technologies: {
+        backEnd: {
+            code: ["node", "express"],
+        },
+        frontEnd: {
+            css: [ "tailwind", "bootstrap"],
+            js: ["React"]
+        },
+        databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
+        },
+    skills_to_acquire:["Firebase", "Socket.IO", "Typescript", "Next.js"],
+    currentFocus: "Problem solving skills",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<hr>
