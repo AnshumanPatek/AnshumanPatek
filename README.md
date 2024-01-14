@@ -6,6 +6,8 @@
   <p align="center">I love to explore new technology 🚀</p>
  <p align="center">Creating my own Sunshine 🌈</p>
 <h3 align="center">A passionate Web Developer and open source enthusiast </h3>
+<h3 align="center">Anime World 🤖|| ☕☕Chai lover ☕☕ </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshumanPatek&label=Profile%20views&color=0e75b6&style=flat" alt="AnshumanPatek" /> </p>
 <!-- <img align="right" alt="Coder" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="400" /> -->
@@ -15,6 +17,8 @@
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
 - 👯 I’m looking to collaborate on **open-source projects**
 - **Exploring the endless possibilities of code and creativity.💻**
+- ⚒️I'm Currently learning Flutter and Android development ⚒️
+- 🖐️🖐️Happy to work with Android project 🏁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
@@ -49,8 +53,8 @@
 ```javascript
 const Anshuman_Patek = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C", "C"++, "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "geo politics"],
+    code: ["Javascript", "Dart", "C"++, "Java"],
+    askMeAbout: ["web dev", "android", "tech", "geopolitics"],
     technologies: {
         backEnd: {
             code: ["node", "express"],
@@ -61,8 +65,8 @@ const Anshuman_Patek = {
         },
         databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
         },
-    skills_to_acquire:["Firebase", "Socket.IO", "Typescript", "Next.js"],
-    currentFocus: "Problem solving skills",
+    skills_to_acquire:["Firebase", "Flutter"],
+    currentFocus: "Android Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
