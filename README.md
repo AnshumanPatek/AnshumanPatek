@@ -17,8 +17,8 @@
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
 - 👯 I’m looking to collaborate on **open-source projects**
 - **Exploring the endless possibilities of code and creativity.💻**
-- ⚒️I'm Currently learning Flutter and Android development ⚒️
-- 🖐️🖐️Happy to work with Android project 🏁
+- ⚒️I'm Currently learning PHP ⚒️
+- 🖐️🖐️Happy to work with Backend Project 🏁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
@@ -53,11 +53,11 @@
 ```javascript
 const Anshuman_Patek = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Dart", "C"++, "Java"],
-    askMeAbout: ["web dev", "android", "tech", "geopolitics"],
+    code: ["Javascript", "C"++, "Java"],
+    askMeAbout: ["web dev", "tech", "geopolitics"],
     technologies: {
         backEnd: {
-            code: ["node", "express"],
+            code: ["node", "express","PHP"],
         },
         frontEnd: {
             css: [ "tailwind", "bootstrap"],
@@ -65,8 +65,8 @@ const Anshuman_Patek = {
         },
         databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
         },
-    skills_to_acquire:["Firebase", "Flutter"],
-    currentFocus: "Android Development",
+    skills_to_acquire:["Firebase"],
+    currentFocus: "Backend",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
