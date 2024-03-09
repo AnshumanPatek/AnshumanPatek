@@ -17,7 +17,7 @@
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
 - 👯 I’m looking to collaborate on **open-source projects**
 - **Exploring the endless possibilities of code and creativity.💻**
-- ⚒️I'm Currently learning PHP ⚒️
+- ⚒️I'm Currently learning React ⚒️
 - 🖐️🖐️Happy to work with Backend Project 🏁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,7 +57,7 @@ const Anshuman_Patek = {
     askMeAbout: ["web dev", "tech", "geopolitics"],
     technologies: {
         backEnd: {
-            code: ["node", "express","PHP"],
+            code: ["node", "express"],
         },
         frontEnd: {
             css: [ "tailwind", "bootstrap"],
@@ -65,7 +65,7 @@ const Anshuman_Patek = {
         },
         databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
         },
-    skills_to_acquire:["Firebase"],
+    skills_to_acquire:["React"],
     currentFocus: "Backend",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
