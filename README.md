@@ -17,7 +17,7 @@
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
 - 👯 I’m looking to collaborate on **open-source projects**
 - **Exploring the endless possibilities of code and creativity.💻**
-- ⚒️I'm Currently learning React ⚒️
+- ⚒️I'm Currently learning DevOps ⚒️
 - 🖐️🖐️Happy to work with Backend Project 🏁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -63,9 +63,9 @@ const Anshuman_Patek = {
             css: [ "tailwind", "bootstrap"],
             js: ["React"]
         },
-        databases: ["mongo", "MySql", "firebase(#skills to acquire)"],
+        databases: ["mongo", "MySql"],
         },
-    skills_to_acquire:["React"],
+    skills_to_acquire:["DevOps"],
     currentFocus: "Backend",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
