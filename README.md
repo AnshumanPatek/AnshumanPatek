@@ -5,7 +5,7 @@
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Full+stack+development"/> -->
   <p align="center">I love to explore new technology 🚀</p>
  <p align="center">Creating my own Sunshine 🌈</p>
-<h3 align="center">A passionate Web Developer and open source enthusiast </h3>
+<h3 align="center">A passionate Devops and open source enthusiast </h3>
 <h3 align="center">Anime World 🤖|| ☕☕Chai lover ☕☕ </h3>
 
 
@@ -17,7 +17,7 @@
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
 - 👯 I’m looking to collaborate on **open-source projects**
 - **Exploring the endless possibilities of code and creativity.💻**
-- ⚒️I'm Currently learning DevOps ⚒️
+- ⚒️I'm Currently learning Golang ⚒️
 - 🖐️🖐️Happy to work with Backend Project 🏁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
