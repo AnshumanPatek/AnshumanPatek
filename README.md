@@ -5,7 +5,7 @@
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Full+stack+development"/> -->
   <p align="center">I love to explore new technology 🚀</p>
  <p align="center">Creating my own Sunshine 🌈</p>
-<h3 align="center">A passionate Devops and open source enthusiast </h3>
+<h3 align="center">A passionate DevOps, Backend and open source enthusiast </h3>
 <h3 align="center">Anime World 🤖|| ☕☕Chai lover ☕☕ </h3>
 
 
