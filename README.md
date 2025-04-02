@@ -4,9 +4,9 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px">, I'm Anshuman Patek 😎</h1>
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Full+stack+development"/> -->
   <p align="center">I love to explore new technology 🚀</p>
- <p align="center">Creating my own Sunshine 🌈</p>
-<h3 align="center">A passionate DevOps, Backend and open source enthusiast </h3>
-<h3 align="center">Anime World 🤖|| ☕☕Chai lover ☕☕ </h3>
+<!--  <p align="center">Creating my own Sunshine 🌈</p> -->
+<h3 align="center">A passionate Full Stack, DevOps and open source enthusiast </h3>
+<!-- <h3 align="center">Anime World 🤖|| ☕☕Chai lover ☕☕ </h3> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshumanPatek&label=Profile%20views&color=0e75b6&style=flat" alt="AnshumanPatek" /> </p>
@@ -24,7 +24,7 @@
 <!-- <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
   <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
   <a href="https://www.instagram.com/anshumanpatek369" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-<a href="https://www.hackerrank.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AnshumanPatek" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
 <a href="https://leetcode.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnshumanPatek" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anshumanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshumanpatek" height="30" width="40" /></a>
 
@@ -53,11 +53,11 @@
 ```javascript
 const Anshuman_Patek = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C"++, "Java"],
+    code: ["Javascript", "Python",],
     askMeAbout: ["web dev", "tech", "geopolitics"],
     technologies: {
         backEnd: {
-            code: ["node", "express"],
+            code: ["node", "express", ],
         },
         frontEnd: {
             css: [ "tailwind", "bootstrap"],
