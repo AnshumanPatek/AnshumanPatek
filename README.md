@@ -53,22 +53,30 @@
 ```javascript
 const Anshuman_Patek = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python",],
+    code: ["Javascript", "Python"],
     askMeAbout: ["web dev", "tech", "geopolitics"],
     technologies: {
         backEnd: {
-            code: ["node", "express", ],
+            code: ["Node.js", "Express.js"],
+            orm: ["Prisma", "Sequelize"],
+            caching: ["Redis"]
         },
         frontEnd: {
-            css: [ "tailwind", "bootstrap"],
-            js: ["React"]
+            css: ["Tailwind", "Bootstrap"],
+            js: ["React.js", "Next.js"]
         },
-        databases: ["mongo", "MySql"],
-        },
-    skills_to_acquire:["DevOps"],
-    currentFocus: "Backend",
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        cloud: ["AWS", "GCP"],
+        devOps: [
+            "Docker", "Kubernetes","GitHub Actions", "Jenkins", 
+            "Argo CD", "Helm", "Terraform", "Ansible"
+        ]
+    },
+    skills_to_acquire: ["Go"],
+    currentFocus: "DevOps",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+
 ```
 
 <hr>
