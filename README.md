@@ -5,7 +5,7 @@
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Full+stack+development"/> -->
   <p align="center">I love to explore new technology 🚀</p>
 <!--  <p align="center">Creating my own Sunshine 🌈</p> -->
-<h3 align="center">A passionate Full Stack, DevOps and open source enthusiast </h3>
+<h3 align="center">Passionate Full Stack Developer | DevOps Enthusiast | Open Source Contributor</h3>
 <!-- <h3 align="center">Anime World 🤖|| ☕☕Chai lover ☕☕ </h3> -->
 
 
@@ -15,10 +15,10 @@
 
 
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 Open to collaborating on exciting **open-source projects**
 - **Exploring the endless possibilities of code and creativity.💻**
-- ⚒️I'm Currently learning Golang ⚒️
-- 🖐️🖐️Happy to work with Backend Project 🏁
+- ⚒️Currently diving into Golang to level up my backend game⚒️
+- 🖐️🖐️Always happy to contribute to impactful backend projects🏁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
