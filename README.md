@@ -17,7 +17,7 @@
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
 - 👯 Open to collaborating on exciting **open-source projects**
 - **Exploring the endless possibilities of code and creativity.💻**
-- ⚒️Currently diving into Golang to level up my backend game⚒️
+- ⚒️Currently diving into Gen AI to level up my backend game⚒️
 - 🖐️🖐️Always happy to contribute to impactful backend projects🏁
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,7 +71,7 @@ const Anshuman_Patek = {
             "Argo CD", "Helm", "Terraform", "Ansible"
         ]
     },
-    skills_to_acquire: ["Go"],
+    skills_to_acquire: ["Gen AI"],
     currentFocus: "DevOps",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
