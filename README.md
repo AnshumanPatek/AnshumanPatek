@@ -19,16 +19,6 @@
 - **Exploring the endless possibilities of code and creativity.💻**
 - ⚒️Currently diving into Gen AI to level up my backend game⚒️
 - 🖐️🖐️Always happy to contribute to impactful backend projects🏁
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
-  <a href="https://www.linkedin.com/in/anshuman-patek/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-  <a href="https://www.instagram.com/anshumanpatek369" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
-<!-- <a href="https://www.hackerrank.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
-<!-- <a href="https://leetcode.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AnshumanPatek" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anshumanpatek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anshumanpatek" height="30" width="40" /></a> -->
-
- <!-- <a href="https://www.instagram.com/anshumanpatek369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AnshumanPatek" height="30" width="40" /></a> -->
   </p>
   <br/>
   <br/>
