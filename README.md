@@ -3,9 +3,9 @@
 <!--<h1 align="center">Hey 👋, I'm Anshuman Patek</h1> -->
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px">, I'm Anshuman Patek 😎</h1>
  <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Full+stack+development"/> -->
-  <p align="center">I love to explore new technology 🚀</p>
+<!--   <p align="center">I love to explore new technology 🚀</p> -->
 <!--  <p align="center">Creating my own Sunshine 🌈</p> -->
-<h3 align="center">Passionate Full Stack Developer | DevOps Enthusiast | Open Source Contributor</h3>
+<h3 align="center">Backend & DevOps Engineer</h3>
 <!-- <h3 align="center">Anime World 🤖|| ☕☕Chai lover ☕☕ </h3> -->
 
 
@@ -68,7 +68,7 @@ const Anshuman_Patek = {
         cloud: ["AWS", "GCP"],
         devOps: [
             "Docker", "Kubernetes","GitHub Actions", "Jenkins", 
-            "Argo CD", "Helm", "Terraform", "Ansible"
+            "Argo CD", "Helm", "Terraform"
         ]
     },
     skills_to_acquire: ["Gen AI"],
