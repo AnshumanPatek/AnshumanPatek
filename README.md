@@ -2,23 +2,17 @@
 
 <!--<h1 align="center">Hey 👋, I'm Anshuman Patek</h1> -->
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px">, I'm Anshuman Patek 😎</h1>
- <!-- <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Web+Developer;Full+stack+development"/> -->
-<!--   <p align="center">I love to explore new technology 🚀</p> -->
-<!--  <p align="center">Creating my own Sunshine 🌈</p> -->
 <h3 align="center">Backend & DevOps Engineer</h3>
 <!-- <h3 align="center">Anime World 🤖|| ☕☕Chai lover ☕☕ </h3> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshumanPatek&label=Profile%20views&color=0e75b6&style=flat" alt="AnshumanPatek" /> </p>
-<!-- <img align="right" alt="Coder" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="400" /> -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
-- 👯 Open to collaborating on exciting **open-source projects**
-- **Exploring the endless possibilities of code and creativity.💻**
-- ⚒️Currently diving into Gen AI to level up my backend game⚒️
-- 🖐️🖐️Always happy to contribute to impactful backend projects🏁
+- Building scalable systems that live and breathe in the cloud ☁️
+
   </p>
   <br/>
   <br/>
