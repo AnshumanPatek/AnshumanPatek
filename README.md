@@ -3,15 +3,13 @@
 <!--<h1 align="center">Hey 👋, I'm Anshuman Patek</h1> -->
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px">, I'm Anshuman Patek 😎</h1>
 <h3 align="center">Backend & DevOps Engineer</h3>
-<!-- <h3 align="center">Anime World 🤖|| ☕☕Chai lover ☕☕ </h3> -->
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshumanPatek&label=Profile%20views&color=0e75b6&style=flat" alt="AnshumanPatek" /> </p>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
 - Building scalable systems that live and breathe in the cloud ☁️
+- ☁️ Cloud-native by design, DevOps by mindset.
+- 💬 Always open to collaborating on impactful tech projects!
 
   </p>
   <br/>
