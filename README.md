@@ -8,7 +8,7 @@
 
 - 📫 Reach me at 👉 **AnshumanPatek369@gmail.com**
 - Building scalable systems that live and breathe in the cloud ☁️
-- 🎯 Currently focused on DevOps.
+- 🎯 Currently focused on Gen AI.
 - 💬 Always open to collaborating on impactful tech projects!
 
   </p>
@@ -49,8 +49,7 @@ const Anshuman_Patek = {
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         cloud: ["AWS", "GCP"],
         devOps: [
-            "Docker", "Kubernetes","GitHub Actions", "Jenkins", 
-            "Argo CD", "Helm", "Terraform"
+            "Docker", "Kubernetes","GitHub Actions"
         ]
     },
     skills_to_acquire: ["Gen AI"],
