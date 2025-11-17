@@ -40,7 +40,13 @@ const Anshuman_Patek = {
         cloud: ["AWS", "GCP"],
         devOps: [
             "Docker", "Kubernetes","GitHub Actions"
-        ]
+        ],
+       ai: {
+            models: ["GPT", "LLMs", "Embedding Models"],
+            tools: ["Vapi AI", "LangChain"],
+            ml: ["Scikit-learn"],
+            tasks: ["AI Voice Agents", "Text Generation", "RAG Pipelines"]
+        }
     },
     currentFocus: "AI",
     funFact: "There are two ways to write error-free programs; only the third one works"
