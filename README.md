@@ -42,8 +42,7 @@ const Anshuman_Patek = {
             "Docker", "Kubernetes","GitHub Actions"
         ]
     },
-    skills_to_acquire: ["Gen AI"],
-    currentFocus: "DevOps",
+    currentFocus: "AI",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 
