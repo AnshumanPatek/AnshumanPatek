@@ -16,16 +16,9 @@
 <!--   <br/> -->
   <br/>
   <br/>
-<a href="https://www.linkedin.com/in/anshuman-patek-4999021a8/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="60px" width="60px" alt="Twitter" align="right"></a>
+<!-- <a href="https://www.linkedin.com/in/anshuman-patek-4999021a8/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="60px" width="60px" alt="Twitter" align="right"></a> -->
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt=" " width="25" height="25" /> My GitHub Stats!
----
-<table>
- <tr>
-  <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshumanpatek&show_icons=true&include_all_commits=true&theme=dark" /> </td>
-  <td><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=AnshumanPatek&theme=dark" /> </td>
- </tr>
-</table> 
+
 <!-- <div align="center"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshumanPatek&theme=react-dark" alt="Anshuman Patek" /></div>
 <br/> -->
 
