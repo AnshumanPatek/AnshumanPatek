@@ -2,7 +2,7 @@
 
 <!--<h1 align="center">Hey 👋, I'm Anshuman Patek</h1> -->
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="36px">, I'm Anshuman Patek 😎</h1>
-<h3 align="center">Full-Stack Engineer</h3>
+<h3 align="center">Full-Stack AI Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshumanPatek&label=Profile%20views&color=0e75b6&style=flat" alt="AnshumanPatek" /> </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
