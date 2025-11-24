@@ -44,7 +44,6 @@ const Anshuman_Patek = {
        ai: {
             models: ["GPT", "LLMs", "Embedding Models"],
             tools: ["Vapi AI", "LangChain"],
-            ml: ["Scikit-learn"],
             tasks: ["AI Voice Agents", "Text Generation", "RAG Pipelines"]
         }
     },
