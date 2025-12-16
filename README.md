@@ -24,7 +24,7 @@
 ```javascript
 const Anshuman_Patek = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python"],
+    code: ["Python", "Javascript", ],
     askMeAbout: ["web dev", "tech", "geopolitics"],
     technologies: {
         backEnd: {
@@ -33,7 +33,6 @@ const Anshuman_Patek = {
             caching: ["Redis"]
         },
         frontEnd: {
-            css: ["Tailwind", "Bootstrap"],
             js: ["React.js", "Next.js"]
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
