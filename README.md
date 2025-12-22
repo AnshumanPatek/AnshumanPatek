@@ -23,7 +23,6 @@
 
 ```javascript
 const Anshuman_Patek = {
-    pronouns: "He" | "Him",
     code: ["Python", "Javascript"],
     askMeAbout: ["web dev", "tech", "geopolitics"],
     technologies: {
