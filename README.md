@@ -23,7 +23,7 @@
 
 ```javascript
 const Anshuman_Patek = {
-    code: ["Python","Java","Javascript"],
+    code: ["Python","Javascript"],
     askMeAbout: ["web dev", "tech", "geopolitics"],
     technologies: {
         backEnd: {
